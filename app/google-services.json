@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "305488026680",
+    "firebase_url": "https://bobaceria-94375.firebaseio.com",
+    "project_id": "bobaceria-94375",
+    "storage_bucket": "bobaceria-94375.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:305488026680:android:4c9080f0c21827b4109acd",
+        "android_client_info": {
+          "package_name": "com.akbmawa.bobaceria"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "305488026680-2p6jvbk6o814vecjvkb1nm26cte3r8me.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.akbmawa.bobaceria",
+            "certificate_hash": "d39595673184cb57733986a320d9acbc31967c0d"
+          }
+        },
+        {
+          "client_id": "305488026680-cp0cvs8rnolsoon53m44kjcmkbmvuk8m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAO0G2Fonb0RkWjVLr3u5dk5Qw7W15B0UM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "305488026680-cp0cvs8rnolsoon53m44kjcmkbmvuk8m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
